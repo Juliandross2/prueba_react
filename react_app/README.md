@@ -9,4 +9,4 @@ Currently, two official plugins are available:
 
 prueba commit 1 conflictoJulian
 
-prueba commit 2
+prueba commit 2 -conflito Daniel
